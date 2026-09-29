@@ -120,4 +120,4 @@ The dashboard preview is provided above, while the `.pbix` project file is avail
 ## 👤 Author
 
 **Anggia Rahmani Syahdianto**  
-Information Systems — Universitas Gunadarma
+Information Systems - Universitas Gunadarma
